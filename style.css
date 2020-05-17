@@ -3,3 +3,31 @@ Header background - #FFDBAA
 button - #805215
 Header Text - #553100
 Main background - #D4A76A*/
+
+.main-container {
+    background-color: #D4A76A;
+}
+
+button {
+    background-color: #805215;
+    color: white;
+}
+
+.title-bar {
+    background-color: #FFDBAA;
+}
+
+.title-bar__title {
+    color: #805215;
+}
+
+.title-bar__buttons {
+}
+
+.main-container__top--section1-3 {
+    background-color: #ffffff;
+}
+
+.main-container__bottom {
+    background-color: #ffffff;
+}
