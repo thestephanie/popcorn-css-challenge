@@ -22,12 +22,28 @@ button {
 }
 
 .title-bar__buttons {
+   
 }
 
 .main-container__top--section1-3 {
     background-color: #ffffff;
+    height: 300px;
+    width: 200px;
+    padding: 20px;
+    padding: 40px;
+    margin: 50px;
+    border: 10px solid white;
+    float: left;
+    display: inline-block;
 }
 
 .main-container__bottom {
     background-color: #ffffff;
+    height: 100px;
+    width: 900px;
+    padding: 20px;
+    padding: 40px;
+    margin: 50px;
+    border: 10px solid white;
+    display: inline-block;
 }
